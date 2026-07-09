@@ -26,6 +26,6 @@ They were important to install the AIDE system that later will endure the system
 Confirmed if the AIDE package was succesfully installed and found on the system.
 
 ## Final result
-! [Confirmed installation] (docs/screenshots/sucessfull_package_instalation.png)
+! [Confirmed installation] (docs/screenshots/sucessfull package instalation.png)
 ## References
 https://www.cisecurity.org/benchmark/ubuntu_linux
