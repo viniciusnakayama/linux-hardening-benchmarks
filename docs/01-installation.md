@@ -10,6 +10,7 @@ Before installation, the AIDE package was not installed in the system.
 
 ### 1. Verify current system packages state
 '$ sudo apt update'
+
 Before installing the AIDE package, I verified the packages already installed on the system that might needed updates. Since there were around to 40-50 packages needing so, I used the following command to update all of them at once:
 
 'sudo apt upgrade'
@@ -26,6 +27,7 @@ They were important to install the AIDE system that later will endure the system
 Confirmed if the AIDE package was succesfully installed and found on the system.
 
 ## Final result
-! [Confirmed installation] (docs/screenshots/sucessfull package instalation.png)
+![Successful package installation](screenshots/successful%20package%20installation.png)
+
 ## References
 https://www.cisecurity.org/benchmark/ubuntu_linux
